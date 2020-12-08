@@ -15,7 +15,7 @@ variables:
   webAppName: 'TestApp-RL'
   
   # Resource group
-  resourceGroupName: 'YoTrial-GroupurRG'
+  resourceGroupName: 'Trial-Group'
  
   # Environment name
   environmentName: 'TestApp-RL'
